@@ -8,7 +8,7 @@ module tb_advanced_elevator_controller;
    reg req3;
    reg overload;
    reg emergency;
-    
+     
    wire [1:0] current_floor;
    wire door_open;
    wire busy;
